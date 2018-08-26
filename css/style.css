@@ -239,44 +239,50 @@ textarea {
     width: 100%;
 }
 
-#bargy    {  width:300px;
-                height:200px;
-                margin: auto 0; 
-                background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yola_hut_-Tagoat_Co._Wexford.JPG/1024px-Yola_hut_-Tagoat_Co._Wexford.JPG);
-                 background-size:cover;
-                overflow:hidden;
-        }
+#bargy {  
+    width:300px;
+    height:200px;
+    margin: 5px; 
+    background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yola_hut_-Tagoat_Co._Wexford.JPG/1024px-Yola_hut_-Tagoat_Co._Wexford.JPG);
+    background-size:cover;
+    overflow:hidden;
+}
 
-#brexit    {  width:300px;
-           height:200px;
-          margin: auto 0; 
-          background:url(https://github.com/patrickjkennedy/portfolio/blob/master/images/brexit-news.png?raw=true);
-            background-size:cover;
-            overflow:hidden;
-        }
+#brexit {  
+    width:300px;
+    height:200px;
+    margin: 5px; 
+    background:url(https://github.com/patrickjkennedy/patrickjkennedy.github.io/blob/master/images/brexit-news.png?raw=true);
+    background-size:cover;
+    overflow:hidden;
+}
 
-#movie    {  width:300px;
-            height:200px;
-           margin: auto 0; 
-           background:url(https://user-images.githubusercontent.com/8617261/36937472-9c0560da-1f0b-11e8-8cf2-df4a7c37006b.png?raw=true);
-             background-size:cover;
-             overflow:hidden;
-         }
-#tourist    {  width:300px;
-             height:200px;
-             margin: auto 0; 
-             background:url(https://github.com/patrickjkennedy/portfolio/blob/master/images/tourist.png?raw=true);
-             background-size:cover;
-             overflow:hidden;
-         }
+#movie {  
+    width:300px;
+    height:200px;
+    margin: 5px; 
+    background:url(https://user-images.githubusercontent.com/8617261/36937472-9c0560da-1f0b-11e8-8cf2-df4a7c37006b.png?raw=true);
+    background-size:cover;
+    overflow:hidden;
+}
 
-#overlay    {  background:rgba(0,0,0,.75);
-               text-align:center;
-               padding:90px;
-               opacity:0;
-               -webkit-transition: opacity .25s ease;
-                -moz-transition: opacity .25s ease;
-             }
+#tourist    {  
+    width:300px;
+    height:200px;
+    margin: 5px; 
+    background:url(https://github.com/patrickjkennedy.github.io/portfolio/blob/master/images/tourist.png?raw=true);
+    background-size:cover;
+    overflow:hidden;
+}
+
+#overlay {  
+    background:rgba(0,0,0,.75);
+    text-align:center;
+    padding:90px;
+    opacity:0;
+    -webkit-transition: opacity .25s ease;
+    -moz-transition: opacity .25s ease;
+}
 
 .box:hover #overlay {
                opacity:1;}
