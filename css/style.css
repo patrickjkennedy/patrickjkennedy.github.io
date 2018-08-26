@@ -228,6 +228,10 @@ a.pure-button-primary {
     color: #aaa;
 }
 
+.ribbon a {
+    color: white
+}
+
 .profile-pic{
     border-radius: 5px;
 }
