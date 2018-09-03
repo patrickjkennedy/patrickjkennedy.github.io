@@ -256,7 +256,7 @@ textarea {
     width:300px;
     height:200px;
     margin: 5px; 
-    background:url(https://github.com/patrickjkennedy/patrickjkennedy.github.io/blob/master/images/brexit-news.png?raw=true);
+    background:url(https://raw.githubusercontent.com/patrickjkennedy/patrickjkennedy.github.io/master/images/brexit-news.png);
     background-size:cover;
     overflow:hidden;
 }
@@ -274,7 +274,7 @@ textarea {
     width:300px;
     height:200px;
     margin: 5px; 
-    background:url(https://github.com/patrickjkennedy/patrickjkennedy.github.io/blob/master/images/tourist.png?raw=true);
+    background:url(https://raw.githubusercontent.com/patrickjkennedy/patrickjkennedy.github.io/master/images/tourist.png);
     background-size:cover;
     overflow:hidden;
 }
